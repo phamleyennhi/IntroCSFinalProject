@@ -12,6 +12,7 @@ There are 3 lanes. The cats will act as the zombies, moving from the right to th
 Each time the cat is hit by the plate, its life bar, displayed on top of the cat, decreases until it hits 0 and the cat will die.
 
 If a cat manages to touch the student, the student will die of cat allergy (Students also have hidden life bars). If a cat manages to set foot in D2, game over. 
+
 There will be occasional campus dirhams falling from the sky. If the player collects them, they will be able to use them to buy more students.
 
 
